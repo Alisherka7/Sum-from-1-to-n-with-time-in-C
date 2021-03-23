@@ -18,3 +18,11 @@
 <img src="https://user-images.githubusercontent.com/38793933/112170334-552bf980-8c36-11eb-813b-a4a350fa2660.png">
 
 
+<hr><hr>
+
+## 3) 2)에서 A-B의 시간 차가 거의 나타나지 않는다. 알고리즘A, B만 비교 하는 값을 출력한다.  
+
+- 실행 시간 측정을 위해 한번 의 루프에서 n은 10000부터 100000 정도씩 증 가시키고, 알고리즘B의 실행 시간이 1초 이상이면 중단시킨다. 
+
+<img src="https://user-images.githubusercontent.com/38793933/112170616-8c9aa600-8c36-11eb-84ae-dd2cf11eebe1.png">
+
